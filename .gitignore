@@ -1,0 +1,8 @@
+# Ignorar arquivos de compilação
+*.o
+*.pyc
+*.log
+
+# Ignorar pastas de dependências
+node_modules/
+venv/
